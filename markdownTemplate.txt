@@ -39,6 +39,4 @@
 
 <?$pubType=misc?>
 <$authors.abbreviatedNormalizedName.stringByRemovingTeX.@componentsJoinedByCommaAndAmpersand/><$fields.Year?> (<$fields.Year/>).</$fields.Year?> _<$fields.Title/>_.<$fields.Howpublished?> <$fields.Howpublished/></$fields.Howpublished?><$fields.Series?> from program _<$fields.Series/>_</$fields.Series?><$fields.Institution?> at <$fields.Institution/>.</$fields.Institution?><$fields.Journal?> _<$fields.Journal/>_.</$fields.Journal?><$fields.Volume?> Volume <$fields.Volume/>,</$fields.Volume?><$fields.Number?> Number <$fields.Number/>),</$fields.Number?><$fields.Pages?> pp. <$fields.Pages/>,</$fields.Pages?><$fields.Organization?> <$fields.Organization/>.</$fields.Organization?><$fields.Urldate?> Published <$fields.Urldate/>,</$fields.Urldate?><$fields.Lastchecked?> Retrieved <$fields.Lastchecked/></$fields.Lastchecked?><$fields.Url?> from <<$fields.Url/>></$fields.Url?><$fields.doi?> doi: <$fields.doi/></$fields.doi?>.
-
-</$pubType?>
-</$publications>
+</$pubType?></$publications>
